@@ -4,7 +4,7 @@ How [ABCricket](http://abcricket.com) website works
 [ABCricket.com](http://abcricket.com) is cricket website for all contents related to cricket - news / analysis / match preview / stats / blogs etc..
 
 Since the website is currently up and running, we are not planning to make the source code open source, but if you need any
-clarification on anything regarding [ABCricket.com](http://abcricket.com), just drop a mail to hello@abcricket.com
+clarification on anything regarding [ABCricket.com](http://abcricket.com), just drop a mail to hello@abcricket.com or just raise an isue in here :)
 
 Here I'll describe how [ABCricket](http://abcricket.com) works:
 
